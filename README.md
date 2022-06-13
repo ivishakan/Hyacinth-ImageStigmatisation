@@ -1,4 +1,4 @@
-# Hyacinth---Image-Stigmatisation
+# Hyacinth ImageStigmatisation
 Hyacinth is a Content Aware Image Stigmatisation with Active Learning project. 
 
 Here is the snippet of my model
